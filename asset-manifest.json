@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ramirosued/TP3-Citas-Parte-1-/static/css/main.4e111e62.css",
-    "main.js": "/ramirosued/TP3-Citas-Parte-1-/static/js/main.2d75f212.js",
-    "static/js/453.8c80987c.chunk.js": "/ramirosued/TP3-Citas-Parte-1-/static/js/453.8c80987c.chunk.js",
-    "index.html": "/ramirosued/TP3-Citas-Parte-1-/index.html",
-    "main.4e111e62.css.map": "/ramirosued/TP3-Citas-Parte-1-/static/css/main.4e111e62.css.map",
-    "main.2d75f212.js.map": "/ramirosued/TP3-Citas-Parte-1-/static/js/main.2d75f212.js.map",
-    "453.8c80987c.chunk.js.map": "/ramirosued/TP3-Citas-Parte-1-/static/js/453.8c80987c.chunk.js.map"
+    "main.css": "/TP3-Citas-Parte-1-/static/css/main.4e111e62.css",
+    "main.js": "/TP3-Citas-Parte-1-/static/js/main.cacc642e.js",
+    "static/js/453.8c80987c.chunk.js": "/TP3-Citas-Parte-1-/static/js/453.8c80987c.chunk.js",
+    "index.html": "/TP3-Citas-Parte-1-/index.html",
+    "main.4e111e62.css.map": "/TP3-Citas-Parte-1-/static/css/main.4e111e62.css.map",
+    "main.cacc642e.js.map": "/TP3-Citas-Parte-1-/static/js/main.cacc642e.js.map",
+    "453.8c80987c.chunk.js.map": "/TP3-Citas-Parte-1-/static/js/453.8c80987c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e111e62.css",
-    "static/js/main.2d75f212.js"
+    "static/js/main.cacc642e.js"
   ]
 }
