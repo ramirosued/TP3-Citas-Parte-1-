@@ -17,10 +17,9 @@ function App() {
           <Formulario citas={citas} setCitas={setCitas}></Formulario>
         </div>
         <div className='column'>
-        <Cita citas={citas} setCitas={setCitas}></Cita>
           <Subtitulo texto={'ADMINISTRA TUS CITAS'}></Subtitulo>
           {
-            citas.map(t => <Cita mascota={t.nombre} dueño={t.nombreDueño} fecha={t.fecha} hora={t.hora} sintomas={t.sintomas}/>)
+            citas.map(t => <Cita citas={citas} setCitas={setCitas} id={t.id} mascota={t.nombre} dueño={t.nombreDueño} fecha={t.fecha} hora={t.hora} sintomas={t.sintomas}/>)
           }        
       </div>
     </div>
