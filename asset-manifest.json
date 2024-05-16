@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ramirosued/TP3-Citas-Parte-1-/static/css/main.4e111e62.css",
-    "main.js": "/ramirosued/TP3-Citas-Parte-1-/static/js/main.b9f791d1.js",
+    "main.js": "/ramirosued/TP3-Citas-Parte-1-/static/js/main.234cf86d.js",
     "static/js/453.8c80987c.chunk.js": "/ramirosued/TP3-Citas-Parte-1-/static/js/453.8c80987c.chunk.js",
     "index.html": "/ramirosued/TP3-Citas-Parte-1-/index.html",
     "main.4e111e62.css.map": "/ramirosued/TP3-Citas-Parte-1-/static/css/main.4e111e62.css.map",
-    "main.b9f791d1.js.map": "/ramirosued/TP3-Citas-Parte-1-/static/js/main.b9f791d1.js.map",
+    "main.234cf86d.js.map": "/ramirosued/TP3-Citas-Parte-1-/static/js/main.234cf86d.js.map",
     "453.8c80987c.chunk.js.map": "/ramirosued/TP3-Citas-Parte-1-/static/js/453.8c80987c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e111e62.css",
-    "static/js/main.b9f791d1.js"
+    "static/js/main.234cf86d.js"
   ]
 }
