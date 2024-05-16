@@ -27,7 +27,7 @@ function Formulario({setCitas, citas}) {
     return (
         <form name="form" onSubmit={crearCita}>
             <label>Nombre mascota</label>
-            <input type="text" name="nombre" placeholder="Nombre mascota"></input>
+            <input type="text" name="nombre" placeholder="Nombre mascota" required></input>
             <label>Nombre dueño</label>
             <input type="text" name="nombreDueño" resource='' placeholder="Nombre dueño de la mascota" required></input>
             <label>Fecha</label>
